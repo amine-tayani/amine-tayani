@@ -5,9 +5,9 @@
 
 ## Skills
   - 💻 WEB DEV
-    - <b>Front End : </b> HTML, CSS, TailwindCSS, JavaScript, ReactJS
-    - <b>Back End : </b> NodeJS, MySQL, Laravel, Django, JAVA EE, REST APIs
-  - Modelling : Merise -  UML
+    - <b>Front End : </b> HTML, CSS, TailwindCSS, JavaScript, ReactJS, NextJS
+    - <b>Back End : </b> NodeJS, Laravel, Django, JAVA EE, REST APIs, Graphql, Prisma, MySQL, Firebase, PostgreSQL
+  - Modeling : Merise -  UML
   - 📱 Mobile dev: Android ( JAVA )
   - 👨‍💻 Programming Languages : C, JAVA, PHP, Python.
   - Agile : SCRUM - XP
@@ -16,9 +16,7 @@
 <br/>  
 
 
-- 🔭 At the moment ,I’m working on react-firebase project called blaazit which is a reddit-like website,and i'm using react hooks and context api for managing my app state and logic
-- 🌱 I’m currently learning the MERN Stack which is a Popular full stack technologie - also nextJS and gatsby 
-- 👯 I’m looking to build my portfolio using the NextJS framework  
+- 🔭 At the moment ,I’m working on project called Glasnik which is a chat app with communities and different channels.
 - 📫 How to reach me: my github profile or you can find me on Linkedin : <a href="https://www.linkedin.com/in/aminetayani/">My Profile</a>
 
 ## Contact me
