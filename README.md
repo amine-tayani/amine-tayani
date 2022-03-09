@@ -16,12 +16,12 @@
 <br/>  
 
 
-- 🔭 At the moment ,I’m working on project called Glasnik which is a chat app with communities and different channels.
-- 📫 How to reach me: my github profile or you can find me on Linkedin : <a href="https://www.linkedin.com/in/aminetayani/">My Profile</a>
+- 🔭 At the moment ,I’m working on project called Glasnik ,a highly interactive full stack web - mobile application that allows users to 
+text voice and video-chat divided into communities each of which has its own members and channels
 
 ## Contact me
   - <b>Email</b> : [amine.tayani@gmail.com](mailto:amine.tayani@gmail.com)
   
-  - <b>Github</b> : https://github.com/amine-tayani/
+  - <b>Portfolio</b> : https://aminetayani.me/
   
   - <b>Linkedin</b> : https://www.linkedin.com/in/amine-tayani-b5780122b/
