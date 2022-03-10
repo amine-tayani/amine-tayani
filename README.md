@@ -1,7 +1,7 @@
 # Amine Tayani 
 
 ## About me
--✅ Passionate Full Stack Developer with years of hand-on experience in building websites/applications. using a wide range of Frontend and backend skills like Javascript, NodeJS, React JS, etc. Developed so many projects from scratch. Looking for a job opportunity as Full Stack developer / Frontend Developer.
+✅ Passionate Full Stack Developer with years of hand-on experience in building websites/applications. using a wide range of Frontend and backend skills like Javascript, NodeJS, React JS, etc. Developed so many projects from scratch. Looking for a job opportunity as Full Stack developer / Frontend Developer.
 Ypu can check out my portfolio at https://aminetayani.me<br/>
 
 ## Skills
