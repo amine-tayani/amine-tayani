@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://aminetayani.me/" target="_blank">Amine Tayani</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-## About me
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi I'm Amine , Passionate Full Stack Developer from morocco with years of hand-on experience in building websites/applications. using a wide range of Frontend and backend skills like Javascript, NodeJS, React JS, etc. Developed so many projects from scratch. Looking for a job opportunity as Full Stack developer / Frontend Developer.
+Passionate Full Stack Developer from morocco with years of hand-on experience in building websites/applications. using a wide range of Frontend and backend skills like Javascript, NodeJS, React JS, etc. Developed so many projects from scratch. Looking for a job opportunity as Full Stack developer / Frontend Developer.
 Ypu can check out my portfolio at https://aminetayani.me<br/>
 
 
