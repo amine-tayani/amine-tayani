@@ -6,15 +6,8 @@ Ypu can check out my portfolio at https://aminetayani.me<br/>
 
 
 ## Skills
-  - 💻 WEB DEV
-    - <b>Front End : </b> HTML, CSS, TailwindCSS, JavaScript, ReactJS, NextJS
-    - <b>Back End : </b> NodeJS, Express, Laravel, Django, Graphql, Prisma, MySQL, MongoDB, Firebase, PostgreSQL
-  - Modeling : Merise -  UML
-  - 📱 Mobile dev: Android ( JAVA ) - React Native.
-  - 👨‍💻 Programming Languages : C, JAVA, PHP, Python and Typescript.
-  - Agile : SCRUM - XP
-  - 🥽 Virtualisation : Virtual Box, VMware.
-  - ⛏ Tools : Git, Docker.
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <br/>  
 
 
@@ -22,6 +15,7 @@ Ypu can check out my portfolio at https://aminetayani.me<br/>
 text voice and video-chat divided into communities each of which has its own members and channels
 
 ## Contact me
+
   - <b>Email</b> : [amine.tayani@gmail.com](mailto:amine.tayani@gmail.com)
   
   - <b>Portfolio</b> : https://aminetayani.me/
@@ -29,9 +23,6 @@ text voice and video-chat divided into communities each of which has its own mem
   - <b>Linkedin</b> : https://www.linkedin.com/in/amine-tayani-b5780122b/
 
   
-<a href="mailto:amine.tayani@gmail.com">
-  <img align="left" alt="Amine's email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
-</a>
 <a href="https://www.linkedin.com/in/amine-tayani-b5780122b/">
   <img align="left" alt="Amine's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
