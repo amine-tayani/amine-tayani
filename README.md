@@ -12,6 +12,8 @@ Passionate Full Stack Developer from morocco with years of hand-on experience in
 
 
 ## Skills
+
+```css
   <p>
    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -52,6 +54,7 @@ Passionate Full Stack Developer from morocco with years of hand-on experience in
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
+  ```
 <br/>  
 
 
