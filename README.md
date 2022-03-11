@@ -17,7 +17,7 @@ Passionate Full Stack Developer from morocco with years of hand-on experience in
   const skills = {
       programming_languages : [ 'Python' , 'Php' , 'Typescript' , 'Javascript' - 'C' - 'Java' ],
       frameworks : ['Node.js', 'Express.js' , 'React' , 'Next.js' , 'React Native' , 'Laravel' , 'Django', 'Graphql'],
-      tools and Databases : ['MySQL' , 'MongoDB' , 'PostgreSQL' , 'Docker' , 'Git' , 'Prisma' , 'Heroku']
+      tools_and_databases : ['MySQL' , 'MongoDB' , 'PostgreSQL' , 'Docker' , 'Git' , 'Prisma' , 'Heroku']
   }
   ```
 <br/>  
