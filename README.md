@@ -28,15 +28,11 @@ text voice and video-chat divided into communities each of which has its own mem
   
   - <b>Linkedin</b> : https://www.linkedin.com/in/amine-tayani-b5780122b/
 
-  <a href="https://www.instagram.com/abhishknads/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  
+<a href="mailto:amine.tayani@gmail.com">
+  <img align="left" alt="Amine's email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.linkedin.com/in/amine-tayani-b5780122b/">
+  <img align="left" alt="Amine's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
