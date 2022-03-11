@@ -61,7 +61,5 @@ text voice and video-chat divided into communities each of which has its own mem
   - <b>Linkedin</b> : https://www.linkedin.com/in/amine-tayani-b5780122b/
 
   
-<a href="https://www.linkedin.com/in/amine-tayani-b5780122b/">
-  <img align="left" alt="Amine's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
