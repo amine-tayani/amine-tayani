@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </p>  
 
 
-## Passionate Full Stack Developer | Morocco 🇲🇦 | Building Exceptional Websites/Applications
+Passionate Full Stack Developer | Morocco 🇲🇦 | Building Exceptional Websites/Applications
 
 👋 Hello there! I'm Amine, a dedicated Full Stack Developer from Morocco with a wealth of hands-on experience in crafting robust websites and applications. My goal is to create exceptional digital experiences that leave a lasting impact.
 
