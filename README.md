@@ -8,17 +8,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </p>  
 
 
-Passionate Full Stack Developer | Morocco 🇲🇦 | Building Exceptional Websites/Applications
+Passionate Full Stack Developer,
 
-👋 Hello there! I'm Amine, a dedicated Full Stack Developer from Morocco with a wealth of hands-on experience in crafting robust websites and applications. My goal is to create exceptional digital experiences that leave a lasting impact.
+👋 Hello there! I'm Amine, a dedicated Full Stack Developer from Morocco with a wealth of hands-on experience in crafting awesome looking websites and applications. My goal is to create exceptional digital experiences that leave a lasting impact.
 
-💻 Equipped with a diverse skill set spanning Frontend and Backend technologies, I thrive on bringing ideas to life. Javascript, NodeJS, React JS, and more are my tools of choice in building dynamic and scalable solutions that meet client needs.
+💻 Equipped with a diverse skill set spanning Frontend and Backend technologies, I thrive on bringing ideas to life. Javascript, Next.js, React, and more are my tools of choice in building web solutions that meet client needs.
 
 🌐 With a proven track record of developing projects from scratch, I understand the importance of clean code, scalability, and performance optimization. I am committed to staying up-to-date with the latest industry trends and technologies to deliver cutting-edge solutions.
 
 💼 Currently seeking new opportunities as a Full Stack Developer or Frontend Developer, I am eager to contribute my expertise and drive projects to success. I am a firm believer in the power of collaboration and teamwork to achieve outstanding results.
-
-📫 Let's connect and explore possibilities! Feel free to reach out to me via [Social media/LinkedIn/Email](insert your preferred contact method). I am always open to engaging in conversations, discussing exciting projects, and learning from fellow developers.
 
 ⭐ Take a look at my GitHub repositories below to see some of the projects I've brought to life. I welcome contributions, feedback, and collaborations. Let's create remarkable solutions together!
 
@@ -37,13 +35,11 @@ Passionate Full Stack Developer | Morocco 🇲🇦 | Building Exceptional Websit
 
 
 
-## Where to find me
+## Let's connect and explore possibilities
 
 <p>
 <a href="mailto:amine.tayani@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://aminet-aminet.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
 <a href="https://www.linkedin.com/in/amine-tayani-b5780122b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://www.hackerrank.com/amine_tayani" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://leetcode.com/amine_T/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   </p>  
 
