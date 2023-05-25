@@ -8,7 +8,20 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </p>  
 
 
-Passionate Full Stack Developer from morocco with years of hand-on experience in building websites/applications. using a wide range of Frontend and backend skills like Javascript, NodeJS, React JS, etc. Developed so many projects from scratch. Looking for a job opportunity as Full Stack developer / Frontend Developer.
+## Passionate Full Stack Developer | Morocco 🇲🇦 | Building Exceptional Websites/Applications
+
+👋 Hello there! I'm Amine, a dedicated Full Stack Developer from Morocco with a wealth of hands-on experience in crafting robust websites and applications. My goal is to create exceptional digital experiences that leave a lasting impact.
+
+💻 Equipped with a diverse skill set spanning Frontend and Backend technologies, I thrive on bringing ideas to life. Javascript, NodeJS, React JS, and more are my tools of choice in building dynamic and scalable solutions that meet client needs.
+
+🌐 With a proven track record of developing projects from scratch, I understand the importance of clean code, scalability, and performance optimization. I am committed to staying up-to-date with the latest industry trends and technologies to deliver cutting-edge solutions.
+
+💼 Currently seeking new opportunities as a Full Stack Developer or Frontend Developer, I am eager to contribute my expertise and drive projects to success. I am a firm believer in the power of collaboration and teamwork to achieve outstanding results.
+
+📫 Let's connect and explore possibilities! Feel free to reach out to me via [Social media/LinkedIn/Email](insert your preferred contact method). I am always open to engaging in conversations, discussing exciting projects, and learning from fellow developers.
+
+⭐ Take a look at my GitHub repositories below to see some of the projects I've brought to life. I welcome contributions, feedback, and collaborations. Let's create remarkable solutions together!
+
 
 
 ## Skills
@@ -23,8 +36,6 @@ Passionate Full Stack Developer from morocco with years of hand-on experience in
 <br/>  
 
 
-- 🔭 At the moment ,I’m working on project called Glasnik ,a highly interactive full stack web - mobile application that allows users to 
-text voice and video-chat divided into communities each of which has its own members and channels
 
 ## Where to find me
 
