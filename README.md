@@ -16,6 +16,8 @@ Passionate Full Stack Developer,
 
 🌐 With a proven track record of developing projects from scratch, I understand the importance of clean code, scalability, and performance optimization. I am committed to staying up-to-date with the latest industry trends and technologies to deliver cutting-edge solutions.
 
+Currently i'm working on a project called Spotify-cl which is a spotify clone using Next.js 13 latest features(App router, Layouts , parallel routes...) 
+
 💼 Currently seeking new opportunities as a Full Stack Developer or Frontend Developer, I am eager to contribute my expertise and drive projects to success. I am a firm believer in the power of collaboration and teamwork to achieve outstanding results.
 
 ⭐ Take a look at my GitHub repositories below to see some of the projects I've brought to life. I welcome contributions, feedback, and collaborations. Let's create remarkable solutions together!
