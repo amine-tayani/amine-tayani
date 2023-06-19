@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </p>  
 
 
-👨‍💻 Greetings! I am Amine, a dedicated Full Stack Developer based in Morocco 🇲🇦
+👨‍ Greetings! I am Amine, a dedicated Full Stack Developer based in Morocco 🇲🇦
 
 💼 With a comprehensive skill set encompassing both Frontend and Backend technologies, I excel at transforming ideas into tangible solutions. I specialize in utilizing tools such as Javascript, Next.js, React, and others to develop web applications that precisely meet client requirements.
 
