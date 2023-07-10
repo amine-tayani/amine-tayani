@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://portfolio-aminet.vercel.app/" target="_blank">Amine Tayani</a> <img
+<h1 align="center">Hi there, I'm <a href="https://amine-tayani.vercel.app/v2" target="_blank">Amine Tayani</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p>
 <a href="mailto:amine.tayani@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-aminet.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/My Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139"/></a>
-<a href="https://www.linkedin.com/in/amine-tayani-b5780122b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/amine-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://amine-tayani.vercel.app/v2" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/My Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://www.linkedin.com/in/aminety" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/amine-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>  
 
 
@@ -39,7 +39,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>
 <a href="mailto:amine.tayani@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-aminet.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-<a href="https://www.linkedin.com/in/amine-tayani-b5780122b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://amine-tayani.vercel.app/v2" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+<a href="https://www.linkedin.com/in/aminety" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </p>  
 
