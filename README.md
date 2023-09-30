@@ -15,18 +15,6 @@ I excel at transforming concepts into tangible solutions and i specialize mostly
 Please take a moment to explore my portfolio, featuring a curated selection of successfully completed projects.
 
 
-## Skills
-
-```css
-  const skills = {
-      programming_languages : [ 'Python' , 'Php' , 'Typescript' , 'Javascript' - 'C' - 'Java' ],
-      frameworks : ['Node.js', 'Express.js' , 'React' , 'Next.js' , 'React Native' , 'Laravel' , 'Django', 'Graphql'],
-      tools_and_databases : ['MySQL' , 'MongoDB' , 'PostgreSQL' , 'Docker' , 'Git' , 'Prisma' , 'Heroku']
-  }
-  ```
-<br/>  
-
-
 
 ## Let's connect and explore possibilities
 
