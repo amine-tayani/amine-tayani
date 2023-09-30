@@ -15,7 +15,3 @@ I excel at transforming concepts into tangible solutions and i specialize mostly
 Please take a moment to explore my portfolio, featuring a curated selection of successfully completed projects.
 
 
-
-## Let's connect and explore possibilities
-
-
