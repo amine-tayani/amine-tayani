@@ -1,10 +1,21 @@
 ![cover](https://github.com/amine-tayani/amine-tayani/blob/main/cover.png?raw=true)
 
 
-Hi I'm Amine, a dedicated and highly skilled Full Stack Developer based in Morocco, With a comprehensive expertise spanning both Frontend and Backend technologies.
+Hi I'm Amine Tayani, Full Stack Web Developer
 
-I excel at transforming concepts into tangible solutions and i specialize mostly in tools such as Javascript, Typescript, React, NodeJS, NextJS and tailwind CSS that precisely meet the unique requirements of my clients.
+My Tech Stack :
+ - React,
+ - Next JS,
+ - Typescript,
+ - TailwindCSS,
+ - NodeJS - Express,
+ - MongoDB,
+ - PostgreSQL- Prisma
+ - and Django
 
-Please take a moment to explore my portfolio, featuring a curated selection of successfully completed projects.
+Right now, I'm on the lookout for fresh opportunities that spark my creativity. If you have an exciting Opportunity, Feel free to send me a message, and let's explore how I can contribute.
+
+🔗 Portfolio: https://amine-tayani.vercel.app
+🔗 Github: https://github.com/amine-tayani
 
 
