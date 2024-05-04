@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Amine</h1>
 <h3>Full Stack Web Developer with passion for frontend developer.</h3>
 
-- 🔭 I’m currently working on [Onyx a job application tracking web app.](https://github.com/amine-tayani/onyxapp)
+- 🔭 I’m currently working on [Onyx](https://github.com/amine-tayani/onyxapp) a job application tracking web app built using Nextjs / React / Prisma / ShadcnUI.
 
 - 👨‍💻 All of my projects are available at [https://amine-tayani.vercel.app/](https://amine-tayani.vercel.app/)
 
