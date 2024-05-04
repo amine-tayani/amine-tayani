@@ -1,6 +1,3 @@
-![cover](https://github.com/amine-tayani/amine-tayani/blob/main/cover.png?raw=true)
-
-
 Hi I'm Amine Tayani, Full Stack Web Developer
 
 My Tech Stack :
