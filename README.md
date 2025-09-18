@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://amine-tayani.vercel.app/](https://amine-tayani.vercel.app/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-tayani&show_icons=true&locale=en&layout=compact" alt="amine-tayani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-tayani&show_icons=true&locale=en" alt="amine-tayani" /></p>
 
