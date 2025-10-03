@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Onyx](https://github.com/amine-tayani/onyxapp) a job application tracking web app built using Nextjs / React / Prisma / ShadcnUI.
 
-- 👨‍💻 All of my projects are available at [https://amine-tayani.vercel.app/](https://amine-tayani.vercel.app/)
+- 👨‍💻 Check out my projects on my [portfolio](https://19aabcd5.portfolio-56i.pages.dev/)
 
 
 <h3 align="left">Connect with me:</h3>
