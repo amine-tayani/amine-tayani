@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Onyx](https://github.com/amine-tayani/onyxapp) a job application tracking web app built using Nextjs / React / Prisma / ShadcnUI.
 
-- 👨‍💻 Check out my projects on my [portfolio](https://19aabcd5.portfolio-56i.pages.dev/)
+- 👨‍💻 Check out my projects on my [portfolio](https://aminety.is-a.dev/)
 
 
 <h3 align="left">Connect with me:</h3>
